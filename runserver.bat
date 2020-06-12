@@ -1,4 +1,4 @@
 @echo off
 start python manage.py runserver
-cd mysite/static/Ang
+cd mysite/static/
 start ng build
